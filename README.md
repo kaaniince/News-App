@@ -1,5 +1,9 @@
 # News App
 
+For API Key: https://newsapi.org/
+
+Download driver from here and edit location in code: https://chromedriver.chromium.org/downloads
+
 ![1](https://user-images.githubusercontent.com/57836014/177062186-ef3a70af-1d70-4f77-94b6-c10cf0944465.png)
 
 <hr>
