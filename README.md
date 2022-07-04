@@ -10,7 +10,7 @@ If the "Create News Json File" or "Go To News" button is pressed before bringing
 
 <hr>
 <br>
-When you press the "Bring the News" button, current sports news will be listed.
+When you press the "Bring the News" button, breaking sports news will be listed.
 
 
 ![3](https://user-images.githubusercontent.com/57836014/177062190-854e9e25-dfaa-4049-92d6-6c27efe8cfb4.png)
@@ -32,6 +32,6 @@ News is selected. After clicking the "Go To News" button, you will go to the new
 
 <hr>
 <br>
-After clicking the "Create the News Json File" button, the json file of the current news is created.
+After clicking the "Create the News Json File" button, the json file of the breaking news is created.
 
 ![6](https://user-images.githubusercontent.com/57836014/177062328-f93e4411-c143-4ae5-99d8-bddc3258e99c.png)
